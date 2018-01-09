@@ -1,3 +1,3 @@
 nothing.
 now, there are something here.
-Creating a new branch is quick.
+Creating a new branch & quick.
