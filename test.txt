@@ -1,3 +1,7 @@
 nothing.
 now, there are something here.
-Creating a new branch & quick.
+<<<<<<< HEAD
+Creating a new branch and quick.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
